@@ -37,8 +37,9 @@
 
 ## Overview
 
-![desktop](/solutions/desksol.PNG)
-![mobile](/solutions/mobilesol.PNG)
+<img width="660" alt="desksol" src="https://github.com/purohitdheeraj/404-Page-CSS/assets/30369664/d51399a2-a1b5-46de-aa9b-0610ee6a2500">
+
+<img width="660" alt="mobilesol" src="https://github.com/purohitdheeraj/404-Page-CSS/assets/30369664/2d148232-aab7-4f67-9aa1-cc7c96084ac4">
 
 ### Built With
 
