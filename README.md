@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/purohitdheeraj/404-Page-CSS">
+    <a href="https://devchallenges.io/solutions/2sPEz1DVkj702YayiwGd">
       Solution
     </a>
     <span> | </span>
