@@ -37,8 +37,8 @@
 
 ## Overview
 
-![desktop](desksol.png)
-![mobile](mobilesol.png)
+![desktop](/desksol.png)
+![mobile](/mobilesol.png)
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
